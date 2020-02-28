@@ -41,6 +41,8 @@ Credit goes to our team <3
 - স্টাইলিশ ফ্লাইং ন্যাভিগেশন মেনু।
 - মোবাইল ফ্রেন্ডলি ইত্যাদি 
 
+# [Live Demo](https://devute.github.io/bangla-news-portal-html-template/).
+
 
 
 
