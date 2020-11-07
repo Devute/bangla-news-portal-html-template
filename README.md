@@ -1,6 +1,6 @@
 # Bangla News portal
 
-This is a free news html portal template for bangali deveoped by <a href="//devute" target="_blank">Team Devute</a>. and it's 100% free to use but you can't sele this product. WordPress veersion is not for free, you can buy from us also we can make a dynamic version of this template if you want we are here to support you any time :). 
+This is a free news html portal template for bangali deveoped by <a href="//devute.com" target="_blank">Team Devute</a>. and it's 100% free to use but you can't sele this product. WordPress veersion is not for free, you can buy from us also we can make a dynamic version of this template if you want we are here to support you any time :). 
 
 #Pages
 - Front Page.
